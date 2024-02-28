@@ -1,4 +1,8 @@
 Some change here
 
+<<<<<<< HEAD
 
 Local conflict change
+=======
+Server conflict change
+>>>>>>> a4057c6563ab865bc059cb53f1c5a295dd145bd8
